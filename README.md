@@ -64,10 +64,10 @@ and keeps them synchronized with Git commits.
 Secure, role-based healthcare backend deployed on Azure.
 
 👉 Check the pinned repositories below for details.
-🏢 Background
-<p align="left"> <img src="https://img.shields.io/badge/DXC%20Technology-000000?style=flat&logo=accenture&logoColor=white"/> </p>
+
+🏢 Background <p align="left"> <img src="https://img.shields.io/badge/DXC%20Technology-000000?style=flat&logo=accenture&logoColor=white"/> </p>
 
 Previously worked on enterprise and regulated backend systems.
 🎓 Master’s in Computer Science
 
-<p align="center"> <i>“I enjoy building software that doesn’t fall apart when things get real.”</i> </p> ```
+<p align="center"> <i>“I enjoy building software that doesn’t fall apart when things get real.”</i> </p> 
