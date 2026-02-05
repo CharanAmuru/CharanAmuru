@@ -1,49 +1,49 @@
-## Hi, I’m Charan Sai Amuru 👋
+<h1 align="center">Hey, I’m Charan Sai Amuru</h1>
 
-Backend engineer focused on building systems that are reliable,
-clear, and meant to last.
+<p align="center">
+Backend engineer. System builder. Calm under complexity.
+</p>
 
-I work mostly with .NET and ASP.NET Core, designing APIs and backend
-logic where correctness, clean structure, and long-term maintainability
-matter more than quick demos.
-
----
-
-### What I focus on
-- Backend & API development
-- ASP.NET Core, C#, SQL Server
-- Data consistency & stateful systems
-- Clean architecture & system design
-- Cloud deployments on Azure
+<p align="center">
+I build backend systems that are clean, reliable, and designed
+to survive real-world usage — not just demos.
+</p>
 
 ---
 
-### Featured Work
-A few projects that reflect how I approach real backend systems:
-
-- **Trading Platform**  
-  Backend-first trading system handling order lifecycle, background
-  execution, and position management.
-
-- **AutoUML Generator**  
-  AI-powered tool that converts source code into UML diagrams and keeps
-  them in sync with Git commits.  
-  🏆 *Best Project Award – Fall 2025*
-
-- **Smart Patient Health Monitoring System**  
-  Secure, role-based healthcare application deployed on Azure.
-
-(See pinned repositories below 👇)
+### 🧠 What I’m about
+- Backend-first thinking  
+- Clean APIs & data correctness  
+- Systems that stay understandable as they grow  
+- Long-term maintainability over shortcuts  
 
 ---
 
-### Background
-Previously at **DXC Technology**, working on enterprise and
-regulated systems across multiple projects.
+### ⚙️ Tech I enjoy working with
+```text
+C# • ASP.NET Core • .NET • SQL Server • Azure
+REST APIs • Background Workers • Clean Architecture
+🚀 Things I’ve built
+
+Trading Platform
+A production-style trading system with order lifecycle management,
+background execution, and position aggregation.
+
+AutoUML Generator
+AI-powered tool that converts source code into UML diagrams and keeps
+them in sync with Git commits.
+🏆 Best Project Award – Fall 2025
+
+Smart Patient Health Monitoring System
+Secure, role-based healthcare backend deployed on Azure.
+
+👉 Check the pinned repositories below.
+
+🏢 Background
+
+Previously at DXC Technology, working on enterprise and
+regulated backend systems.
 
 Master’s in Computer Science.
 
----
-
-I enjoy working on problems where clarity, correctness,
-and long-term thinking matter.
+<p align="center"> I like building software that doesn’t fall apart when things get real. </p> ```
