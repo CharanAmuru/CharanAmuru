@@ -36,12 +36,12 @@ Long-term maintainability over shortcuts
 ---
 
 ## ⚙️ Tech I enjoy working with
-
-```text
 C# • ASP.NET Core • .NET
 SQL Server • EF Core • Azure
 REST APIs • Background Workers
 Clean Architecture
+
+
 🚀 Things I’ve built
 🟢 Trading Platform
 
