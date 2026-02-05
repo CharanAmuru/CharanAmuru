@@ -43,24 +43,21 @@ Clean Architecture
 
 
 🚀 Things I’ve built
+
+
 🟢 Trading Platform
-
 A production-style trading system featuring:
-
 order lifecycle management
-
 background execution workers
-
 position aggregation & PnL calculation
 
 🟣 AutoUML Generator
-
 AI-powered tool that converts source code into UML diagrams
 and keeps them synchronized with Git commits.
 🏆 Best Project Award – Fall 2025
 
-🔵 Smart Patient Health Monitoring System
 
+🔵 Smart Patient Health Monitoring System
 Secure, role-based healthcare backend deployed on Azure.
 
 👉 Check the pinned repositories below for details.
