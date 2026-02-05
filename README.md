@@ -20,9 +20,9 @@ to survive real-world usage — not just demos.
 ---
 
 ### ⚙️ Tech I enjoy working with
-```text
 C# • ASP.NET Core • .NET • SQL Server • Azure
 REST APIs • Background Workers • Clean Architecture
+
 🚀 Things I’ve built
 
 Trading Platform
@@ -47,3 +47,4 @@ regulated backend systems.
 Master’s in Computer Science.
 
 <p align="center"> I like building software that doesn’t fall apart when things get real. </p> ```
+
